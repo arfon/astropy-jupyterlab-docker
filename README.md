@@ -1,5 +1,7 @@
 # Jupyter Notebook Astropy/Scientific Python Stack
 
+Please note, this Docker container is based on the excellent Docker Stacks (https://github.com/jupyter/docker-stacks) from the Jupyter team.
+
 ## What it Gives You
 
 * Jupyter Notebook 5.2.x
